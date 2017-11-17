@@ -1,0 +1,8 @@
+{
+  "name": "Anwar Hidayat Notif",
+  "short_name": "Anwar Hidayat",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "c41a8744-9f4d-4943-84e6-428b0fa7bfdd",
+  "DO_NOT_CHANGE_GCM_SENDER_ID": "Do not change the GCM Sender ID"
+}
